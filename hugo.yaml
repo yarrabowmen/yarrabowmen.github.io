@@ -1,0 +1,45 @@
+baseURL: https://tims.github.io/yarrabowmen/
+languageCode: en-us
+title: Yarra Bowmen
+copyright: © 2025 Copyright Yarra Bowmen
+module:
+  imports:
+    - path: github.com/maolonglong/hugo-simple
+params:
+  logo: "images/yarra_bowmen_logo.png"
+  hideRSSLink: true
+  contact: 
+    address:
+      - Yarra Bowmen Inc
+      - PO BOX 71
+      - BULLEEN VIC 3105
+    email: yarrabowmeninc@gmail.com
+    other: "Incorporated Association Registration Number: A0017284L"
+menus:
+  main:
+    - name: "Home"
+      url: /"
+      weight: 1
+    - name: "Membership"
+      url: /membership/"
+      weight: 2
+    - name: "Visitors"
+      url: /visitors/"
+      weight: 3
+    - name: "Lessons"
+      url: /lessons/"
+      weight: 4
+    - name: "Scoring"
+      url: /score/"
+      weight: 5
+    - name: "Find Us"
+      url: /findus/"
+      weight: 6
+  footer:
+    - name: Score now
+      url: https://yarra.bhca.net.au/Live/
+      weight: 1
+    - name: Past scores
+      url: https://yarra.bhca.net.au/
+      weight: 2
+    

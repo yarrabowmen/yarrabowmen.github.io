@@ -1,0 +1,16 @@
+<div>
+<p>
+{{ with .Site.Params.Contact.Address }}
+    {{ range $index, $element := . }}
+        {{ if eq $index 0 }}
+            <strong>{{ $element }}</strong><br/>
+        {{ else }}
+            {{ $element }}<br/>
+        {{ end }}  
+    {{ end }}
+{{ end }}
+{{ with .Site.Params.Contact.Email }}
+    {{ . }}<br/>
+{{ end }}
+</p>
+</div>

@@ -1,0 +1,14 @@
+<!-- overriding header.html so we can add the site logo and title and the top -->
+
+{{ $img := resources.Get .Site.Params.Logo }}
+{{ $logo := $img.Resize "x70" }}
+
+<div style="display: flex; align-items: center; justify-content: center; gap: 15px;">
+  <a href="{{ .Site.BaseURL }}" style="margin: 0; display: inline-block;" >
+    <img src="{{ $logo.RelPermalink }}" style="display: block; margin: 0;" width="{{ $logo.Width }}" height="{{ $logo.Height }}" alt="Yarra Bowmen Logo">
+  </a>
+  <h1 style="margin: 0; font-size: 4rem;">{{ site.Title }}</h1>
+</div>
+<nav>
+  {{- partial "nav.html" . -}}
+</nav>
