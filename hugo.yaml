@@ -13,8 +13,8 @@ params:
       - Yarra Bowmen Inc
       - PO BOX 71
       - BULLEEN VIC 3105
+      - "Incorporated Association Registration Number: A0017284L"
     email: yarrabowmeninc@gmail.com
-    other: "Incorporated Association Registration Number: A0017284L"
 menus:
   main:
     - name: "Home"
