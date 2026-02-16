@@ -3,6 +3,12 @@ date: '2026-02-15T14:10:40+08:00'
 draft: false
 title: Lessons
 ---
+
+{{< figure
+  src="/images/yarra_bowmen_5-768x512-1.jpg"
+  alt="Yarra Bowmen banner"
+>}}
+
 {{< notice >}}
 Yarra Bowmen is run entirely by volunteers. Money raised from courses goes towards improving the club for all to enjoy!
 {{</ notice >}}
