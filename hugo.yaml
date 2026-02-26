@@ -8,7 +8,7 @@ module:
 params:
   logo: "images/yarra_bowmen_logo.png"
   hideRSSLink: true
-  contact: 
+  author: 
     address:
       - Yarra Bowmen Inc
       - PO BOX 71

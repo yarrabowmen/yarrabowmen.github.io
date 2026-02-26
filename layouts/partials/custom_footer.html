@@ -1,6 +1,6 @@
 <div>
 <p>
-{{ with .Site.Params.Contact.Address }}
+{{ with .Site.Params.Author.Address }}
     {{ range $index, $element := . }}
         {{ if eq $index 0 }}
             <strong>{{ $element }}</strong><br/>
@@ -9,7 +9,7 @@
         {{ end }}  
     {{ end }}
 {{ end }}
-{{ with .Site.Params.Contact.Email }}
+{{ with .Site.Params.Author.Email }}
     {{ . }}<br/>
 {{ end }}
 </p>
