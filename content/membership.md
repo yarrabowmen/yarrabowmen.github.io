@@ -8,11 +8,14 @@ title: 'Membership'
 
 You can join Yarra Bowmen through the [Archery Australia Member Portal](https://account.archery.assemblesports.io/login). The cost of membership consists of the Archery Australia, Archery Victoria and Yarra Bowmen fees. Before you join, please note:
 
-* All new members or must be approved by the Club Committee. To this end, please contact us through our [Facebook page](https://www.facebook.com/YarraBowmenBulleen) or email us at yarrabw@gmail.com.
-* You must provide evidence of basic archery instruction, which can be a card/former membership of an archery club or a certificate of completion from an introductory archery course.
-* We would also like you to come down on a Sunday morning to shoot along with us, so that you get to know us and we get to know you. We’re not being a pain – but we do have a duty of care to our members and yourself.
+* All new memberships must be approved by the Club Committee. To this end, please contact us through our [Facebook page](https://www.facebook.com/YarraBowmenBulleen) or email us at yarrabw@gmail.com to enqire about membership.
 
-If you are already a financial member of another archery club, you can join as an associate member. You do not need to use the Archery Australia Portal, just contact us via our [Facebook page](https://www.facebook.com/YarraBowmenBulleen).
+* Requirements:
+* You must provide evidence of basic archery instruction, which can include; former AA membership, certificate of completion from an introductory archery course or similar.
+* Shoot with us on a Sunday morning (weekly club shoot), so that you get to know us and we get to know you. This is to ensure knowledge of basic shoot rules as we have a duty of care to the public, our members and yourself.
+
+Current adult membership is $310/year, child and family options are available.
+If you are already a financial member of another AA affiliated club, you can join as an associate member. In this case you do not need to use the AA Asemble portal, just contact us via our [Facebook page](https://www.facebook.com/YarraBowmenBulleen) or email us at yarrabw@gmail.com or speak to a club memeber on Sunday morning duriing our weekly club shoot.
 
 {{< figure
   src= "images/yarra_bowmen_4.jpg"
