@@ -6,7 +6,7 @@ title: Home
 
 {{< figure src="images/yarra_sign_range-scaled.jpg" method="Resize" options="600x q80 webp" >}}
 
-Yarra Bowmen was established on 30th October 1963 – we are one of Victoria’s oldest target archery clubs and registered with [Archery Victoria](http://archeryvic.org.au/) and are an [Archery Australia](https://archery.org.au/) affiliated club. Situated in Bulleen Park, we are an excellent option for anyone near the CBD or the norther to eastern suburbs of Melbourne. We host members from all over the wider Melbourne metro area. The club is administered by a voluteer committee comprised of serveal club members. Our current Club President is Christopher Flipo.
+Yarra Bowmen was established on 30th October 1963 – we are one of Victoria’s oldest target archery clubs and registered with [Archery Victoria](http://archeryvic.org.au/) and are an [Archery Australia](https://archery.org.au/) affiliated club. Situated in Bulleen Park, we are an excellent option for anyone near the CBD or the norther to eastern suburbs of Melbourne. We host members from all over the wider Melbourne metro area. The club is administered by a volunteer committee comprised of several club members. Our current Club President is Christopher Flipo.
 
 We host one of the few dedicated archery ranges in the metropolitan area, club members can shoot any day of the week during daylight hours.
 
