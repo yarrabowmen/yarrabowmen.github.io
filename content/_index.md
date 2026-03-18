@@ -6,17 +6,13 @@ title: About Us
 
 {{< figure src="images/yarra_sign_range-scaled.jpg" method="Resize" options="600x q80 webp" >}}
 
-Yarra Bowmen was established on 30th October 1963 – we are one of Victoria’s oldest target archery clubs and registered with [Archery Victoria](http://archeryvic.org.au/). Situated in Bulleen Park, we are an excellent option for anyone near the CBD or the norther to eastern suburbs of Melbourne. We host members from all over the wider Melbourne metro area.
+Yarra Bowmen was established on 30th October 1963 – we are one of Victoria’s oldest target archery clubs and registered with [Archery Victoria](http://archeryvic.org.au/). Situated in Bulleen Park, we are an excellent option for anyone near the CBD or the norther to eastern suburbs of Melbourne. We host members from all over the wider Melbourne metro area. The club is administered by a club committee (registration details) comprised of serveal club members. Our current Club President is Chrsitopher Flipo.
 
 We host one of the few dedicated archery ranges in the metropolitan area, club members can shoot any day of the week during daylight hours.
 
-The club range is 90 m with X 4 m wide lanes for mobile target butts. , a basic clubhouse and two storage sheds for target butts.
+The club range is twenty 4 m wide lanes marked out every 10 m up to 90 m from the shooting line. We utilise a basic clubhouse and two storage sheds for mobile target butts.
 
-Our beginners courses can accommodate people of varying abilities aged 10 years and older.
-
-*As we are run entirely by volunteers* – your kind consideration in keeping our grounds neat and tidy will be greatly appreciated.
-
-The club’s grounds and archery range areas are leased from the Manningham City Council. We acknowledge the kind support of the city council and are proud to be part of the local community.
+The club’s grounds and archery range areas are leased from the Manningham City Council. We acknowledge the kind support of the Manningham City Council and are proud to be part of the local community offereing a sport/activity accessable to all.
 
 {{< figure
   src="/images/yarra_bowmen_logo.png"
