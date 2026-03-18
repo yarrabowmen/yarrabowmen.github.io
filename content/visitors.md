@@ -6,7 +6,7 @@ title: 'Visitors'
 
 ## Visiting Archery Australia affiliated club members
 
-If you already have a membership with an Archery Australia affiliated club, you can shoot at Yarra Bowmen with **evidence of current financial membership** (down loaded from AA's Assemble portal). A standard **daily shooting fee of $10** is paid via the money box int he club house and you will sign in as per your home club. Our weekly club shoot is held every Sunday (0800 - 1100). Please check in with us with via [our Facebook page](https://www.facebook.com/YarraBowmenBulleen) or email us at yarrabw@gmail.com to ensure access.
+If you already have a membership with an Archery Australia affiliated club, you can shoot at Yarra Bowmen with **evidence of current financial membership** (down loaded from AA's Assemble portal). A standard **daily shooting fee of $10** is paid via the money box int he club house and you will sign in as per your home club. Our weekly club shoot is held every Sunday (0800 - 1100). Please check in with us with via [Facebook](https://www.facebook.com/YarraBowmenBulleen) or email us at yarrabw@gmail.com to ensure access.
 
 
 ## Visiting Temporary Players/Participants
