@@ -9,6 +9,7 @@ title: 'Membership'
 You can join Yarra Bowmen through the [Archery Australia Member Portal](https://account.archery.assemblesports.io/login).
 
 Current adult membership is $310/year, $150 goes to the Club, the rest to AV and AA who cover insurance. Child and family options are available.
+
 If you are already a financial member of another AA affiliated club, you can join as an associate member. In this case you do not need to use the AA Asemble portal, just contact us via our [Facebook page](https://www.facebook.com/YarraBowmenBulleen) or email us at yarrabw@gmail.com or speak to a club memeber on Sunday morning duriing our weekly club shoot.
 
 Before you join, please note:
