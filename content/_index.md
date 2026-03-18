@@ -1,6 +1,7 @@
 ---
 date: '2026-02-15T13:10:47+08:00'
 draft: false
+title: Home
 ---
 
 {{< figure src="images/yarra_sign_range-scaled.jpg" method="Resize" options="600x q80 webp" >}}
