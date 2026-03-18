@@ -8,7 +8,7 @@ title: 'Membership'
 
 You can join Yarra Bowmen through the [Archery Australia Member Portal](https://account.archery.assemblesports.io/login). The cost of membership consists of the Archery Australia, Archery Victoria and Yarra Bowmen fees. Before you join, please note:
 
-* All new members or must be approved by the Club Committee. To this end, please contact us through our [Facebook page](https://www.facebook.com/YarraBowmenBulleen).
+* All new members or must be approved by the Club Committee. To this end, please contact us through our [Facebook page](https://www.facebook.com/YarraBowmenBulleen) or email us at yarrabw@gmail.com.
 * You must provide evidence of basic archery instruction, which can be a card/former membership of an archery club or a certificate of completion from an introductory archery course.
 * We would also like you to come down on a Sunday morning to shoot along with us, so that you get to know us and we get to know you. We’re not being a pain – but we do have a duty of care to our members and yourself.
 
