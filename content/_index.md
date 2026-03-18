@@ -6,11 +6,11 @@ title: About Us
 
 {{< figure src="images/yarra_sign_range-scaled.jpg" method="Resize" options="600x q80 webp" >}}
 
-Yarra Bowmen was established on 30th October 1963 – we are one of Victoria’s oldest target archery clubs and registered with [Archery Victoria](http://archeryvic.org.au/). Situated in Bulleen Park, we are an excellent option for anyone near the CBD or the eastern suburbs of Melbourne. We are within easy reach of suburbs such as Doncaster, Doncaster East, Templestowe, Lower Templestowe, Bulleen, Heidelberg, Balwyn, Lower Plenty and more!
+Yarra Bowmen was established on 30th October 1963 – we are one of Victoria’s oldest target archery clubs and registered with [Archery Victoria](http://archeryvic.org.au/). Situated in Bulleen Park, we are an excellent option for anyone near the CBD or the norther to eastern suburbs of Melbourne. We host members from all over the wider Melbourne metro area.
 
-We are one of the few metropolitan archery clubs where members can shoot all-week during daylight hours.
+We host one of the few dedicated archery ranges in the metropolitan area, club members can shoot any day of the week during daylight hours.
 
-The club has a 90m range which could fit 30+ targets, a large clubhouse and 2 storage sheds for targets.
+The club range is 90 m with X 4 m wide lanes for mobile target butts. , a basic clubhouse and two storage sheds for target butts.
 
 Our beginners courses can accommodate people of varying abilities aged 10 years and older.
 
