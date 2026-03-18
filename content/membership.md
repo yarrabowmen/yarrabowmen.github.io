@@ -8,9 +8,11 @@ title: 'Membership'
 
 You can join Yarra Bowmen through the [Archery Australia Member Portal](https://account.archery.assemblesports.io/login).
 
-Current adult membership is $310/year, $150 goes to the Club, the rest to AV and AA who cover insurance. Child and family options are available.
+Current adult membership is $310/year, $150 to the Club, the remainder to AV and AA who cover insurance.
 
-If you are already a financial member of another AA affiliated club, you can join as an associate member. In this case you do not need to use the AA Asemble portal, just contact us via our [Facebook page](https://www.facebook.com/YarraBowmenBulleen) or email us at yarrabw@gmail.com or speak to a club memeber on Sunday morning duriing our weekly club shoot.
+Child and family options are available.
+
+If you are already a financial member of another AA affiliated club, you can join as an associate member. In this case you do not use the AA Asemble portal, instead contact us via our [Facebook page](https://www.facebook.com/YarraBowmenBulleen) or email us at yarrabw@gmail.com or speak to a committee member on Sunday morning during our weekly club shoot.
 
 Before you join, please note:
 * All new memberships must be approved by the Club Committee. To this end, please contact us through our [Facebook page](https://www.facebook.com/YarraBowmenBulleen) or email us at yarrabw@gmail.com to enqire about membership.
@@ -25,11 +27,11 @@ Before you join, please note:
 ## Benefits
 
 * Assess to the range during daylight hours, 7 days a week.
-* Use all club facilities (including archey specific tools)
+* Use all club facilities (including archery specific tools)
 * Attend weekly events.
 * Actively participate in the club’s future. New ideas and suggestions are always welcome.
 
-## Guidelines and expections for all members
+## Guidelines and exceptions for all members
 
 Registered Club Members and Visitors must sign in on the attendance book in the club room. This is a condition of the club’s insurance policy and participation guidelines. A failure to comply can open the club to liability or void our insurance coverage.
 
