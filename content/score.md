@@ -4,6 +4,8 @@ draft: false
 title: 'Scoring'
 ---
 
+Note, site and links down for now.
+
 For Club members we host a scoring record. If your name is not in the Archer list and you would like to record your shooting progress via this website please contact the club recorder (Stuart) to add you to the database.
 
 * [Start scoring](https://yarra.bhca.net.au/Live/)
