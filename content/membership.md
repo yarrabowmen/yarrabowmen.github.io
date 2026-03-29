@@ -12,10 +12,10 @@ Current adult membership is $310/year, $150 to the Club, the remainder to AV and
 
 Child and family options are available.
 
-If you are already a financial member of another AA affiliated club, you can join as an associate member. In this case you do not use the AA Asemble portal, instead contact us via our [Facebook page](https://www.facebook.com/YarraBowmenBulleen) or email us at yarrabw@gmail.com or speak to a committee member on Sunday morning during our weekly club shoot.
+If you are already a financial member of another AA affiliated club, you can join as an associate member. In this case you do not use the AA Asemble portal, instead contact us via our [Facebook page](https://www.facebook.com/YarraBowmenBulleen) or email us at yarrabowmen1963@gmail.com or speak to a committee member on Sunday morning during our weekly club shoot.
 
 Before you join, please note:
-* All new memberships must be approved by the Club Committee. To this end, please contact us through our [Facebook page](https://www.facebook.com/YarraBowmenBulleen) or email us at yarrabw@gmail.com to enqire about membership.
+* All new memberships must be approved by the Club Committee. To this end, please contact us through our [Facebook page](https://www.facebook.com/YarraBowmenBulleen) or email us at yarrabowmen1963@gmail.com to enqire about membership.
 * You must provide evidence of basic archery instruction, which can include; former AA membership, certificate of completion from an introductory archery course or demonstrate a similar level of experience.
 * Shoot with us on a Sunday morning (weekly club shoot), so that you get to know us and the range/surroundings and we get to know you. We must ensure knowledge of basic shooting rules as we have a duty of care to the public, our members and yourself.
 
