@@ -6,6 +6,6 @@ title: 'Find Us'
 
 Yarra Bowmen is located in Bulleen Park, off Bulleen Road, as you exit the Eastern Freeway, approximately 15 minutes east of Melbourne CBD.
 
-Contact us via [Facebook](https://www.facebook.com/YarraBowmenBulleen) or yarrabw@gmail.com. Alternately speak to a memeber directly on Sunday morning (0800-1100) at the club.
+Contact us via [Facebook](https://www.facebook.com/YarraBowmenBulleen) or yarrabowmen1963@gmail.com. Alternately speak to a memeber directly on Sunday morning (0800-1100) at the club.
 
 {{< googlemap >}}
