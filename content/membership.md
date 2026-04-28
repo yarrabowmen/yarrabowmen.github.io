@@ -31,7 +31,7 @@ Before you join, please note:
 * Attend weekly events.
 * Actively participate in the club’s future. New ideas and suggestions are always welcome.
 
-## Guidelines and exceptions for all members
+## Guidelines and expectations for all members
 
 Registered Club Members and Visitors must sign in on the attendance book in the club room. This is a condition of the club’s insurance policy and participation guidelines. A failure to comply can open the club to liability or void our insurance coverage.
 
