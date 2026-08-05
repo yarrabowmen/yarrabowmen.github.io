@@ -11,6 +11,6 @@ All Archery Australia affiliated club members are welcome (please download your 
 
 ## Visiting Temporary Players/Participants
 
-If you are not an active a member of an archery club, you can still visit and shoot (with your own kit) with club members on Sunday mornings (0800 - 1100). This is a good way to try the club out and meet fellow archers. A **daily shooting fee of $10** is paid via the money box next to the fridge and you will sign in as a temporary player.  Please email us to ensure the club will be open via yarrabowmen1963@gmail.com. 
+If you are not an active member of an AA affiliated archery club, you can still visit and shoot (with your own kit) with club members on Sunday mornings (0800 - 1100). This is a good way to try the club out and meet fellow archers. A **daily shooting fee of $10** is paid via the money box next to the fridge and you will sign in as a temporary player.  Please email us to ensure the club will be open via yarrabowmen1963@gmail.com. 
 
 The Club does not offer any equipment hire at present.
