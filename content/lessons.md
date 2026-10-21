@@ -1,7 +1,7 @@
 ---
 date: '2026-02-15T14:10:40+08:00'
 draft: false
-title: How to get get started in archery
+title: How to get started in archery
 ---
 
 {{< figure
